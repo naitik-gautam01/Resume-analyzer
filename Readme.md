@@ -70,6 +70,3 @@ The weights are my own design choices.
 - Compare a resume against a pasted job description
 - OCR support for scanned PDFs
 - Export the report as PDF
-
-## Author
-[Your name], B.Tech AI & Data Science, [College name]
